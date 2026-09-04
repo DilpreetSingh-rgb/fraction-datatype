@@ -16,7 +16,6 @@ The `fraction.py` module can be downloaded and directly imported into any Python
 * Boolean evaluation
 * Hashable Fraction objects
 * Reciprocal calculation
-* Mixed-number conversion
 * Zero-division handling
 * Denominator validation
 * Custom `str()` and `repr()` representations
