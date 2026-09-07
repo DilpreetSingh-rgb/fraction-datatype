@@ -1,4 +1,4 @@
-# <mark>Fraction Datatype for Python
+# <mark><i>Fraction Datatype for Python
 
 A reusable `Fraction` datatype built from scratch in Python.
 
